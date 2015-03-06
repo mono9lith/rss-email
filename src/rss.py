@@ -19,7 +19,7 @@
 Сайт проекта:
 - <https://code.google.com/p/rss-email/>
 - <http://rss-mail.blogspot.ru/>"""
-__version__ = 1, 6, 0
+__version__ = 1, 5, 0
 __author__ = ["Александр <mono9lith@gmail.com>",]
 __license__ = """\
 Эта программа является свободным программным обеспечением: вы можете
