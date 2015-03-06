@@ -13,7 +13,7 @@
 
 Сайт проекта: <https://code.google.com/p/typo-tex-html/>
               <https://plus.google.com/104035776266274568778/>"""
-__version__ = 1, 13, 0
+__version__ = 1, 12, 0
 __author__ = ["Александр <mono9lith@gmail.com>",]
 __license__ = """\
 Эта программа является свободным программным обеспечением: вы можете
