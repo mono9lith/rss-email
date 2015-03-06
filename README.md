@@ -102,6 +102,10 @@ config.json
 
 * Александр ```<mono9lith at gmail dot com>```
 
+## Ссылки
+
+* [Google code](https://code.google.com/p/rss-email/ "Google code")
+
 ## Иллюстрация
 
 ![иллюстрация](https://docs.google.com/uc?export=view&id=0BxX1CJOPtyaLRTVkbTREYXJkUlE "иллюстрация")
