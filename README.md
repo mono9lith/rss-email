@@ -106,6 +106,7 @@ config.json
 ## Ссылки
 
 * [Google code](https://code.google.com/p/rss-email/)
+* [typo.py](https://github.com/mono9lith/typo-py)
 
 ## Иллюстрация
 
