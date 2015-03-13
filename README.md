@@ -6,6 +6,7 @@
 Проект создан как принципиальная замена Google Reader. Из RSS-лент формируется письмо со ссылками и отправляется по почте. Написан на Python.
 
 ## Новости
+[RSS](https://github.com/mono9lith/rss-email/releases.atom)
 
 * 06.03.15 Версия 1.5:
   * рефакторинг
@@ -104,10 +105,10 @@ config.json
 
 ## Ссылки
 
-* [Google code](https://code.google.com/p/rss-email/ "Google code")
+* [Google code](https://code.google.com/p/rss-email/)
 
 ## Иллюстрация
 
 ![иллюстрация](https://docs.google.com/uc?export=view&id=0BxX1CJOPtyaLRTVkbTREYXJkUlE "иллюстрация")
 
-[оригинал изображения](https://docs.google.com/uc?export=view&id=0BxX1CJOPtyaLRTVkbTREYXJkUlE "иллюстрация")
+[оригинал изображения](https://docs.google.com/uc?export=view&id=0BxX1CJOPtyaLRTVkbTREYXJkUlE)
